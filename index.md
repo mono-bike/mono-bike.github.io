@@ -10,3 +10,5 @@ Marlon Brando is widely considered the greatest movie actor of all time, rivaled
 
 As Marlon Brando said:
 > Only the one who walks his own way can't be overtaken.
+
+<img src="https://en.wikipedia.org/wiki/File:Marlon_Brando_(cropped).jpg" />
