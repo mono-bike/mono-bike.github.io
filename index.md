@@ -7,3 +7,6 @@ Marlon Brando is widely considered the greatest movie actor of all time, rivaled
 * impressive
 * brutal
 * tough
+
+As Marlon Brando said:
+> Only the one who walks his own way can't be overtaken.
